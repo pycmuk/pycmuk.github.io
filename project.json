@@ -3,6 +3,9 @@
   "description": "Пустой процесс",
   "main": "Main.xaml",
   "dependencies": {
+    "ElasticSearch.Activities": "[1.0.0]",
+    "Elasticsearch.Net": "7.11.1",
+    "NEST": "7.11.1",
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.System.Activities": "[20.10.3]",
